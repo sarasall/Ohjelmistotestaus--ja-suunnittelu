@@ -1,8 +1,10 @@
 # Ohjelmistotestaus-ja suunnittelu
 
-![](https://fi.wikipedia.org/wiki/Kissa#/media/File:WhiteCat.jpg)
+![](https://pbs.twimg.com/profile_images/633782900077408256/F541mrSs.jpg)
 
-|Uliuliulliiiiiii| Jepajeeeeee |
+| Uliuliulliiiiiii | Jepajeeeeee |
+|:-----------------|-------------|
+| Joooooo | dsadssdd |
 
 ## Alaotsikko
 
